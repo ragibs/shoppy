@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">Shoppy</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p id="description">A full-stack app built for warehouse and inventory management</p>
 
-## Available Scripts
+ <h2>🚀 Demo</h2>
 
-In the project directory, you can run:
 
-### `npm start`
+[Shoppy LIVE](https://638e5b0beae3360609f116a2--thriving-cassata-fd7671.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  
+<h2>🧐 Features</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Here're some of the project's best features:
 
-### `npm test`
+*   Dashboard
+*   3 different pages : Orders, Customers and Employees
+*   Calendar app with event adding functionality
+*   Kanban-like app with a to-do list
+*   9 type of graphs - fully interactive
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>📸  Screenshots</h2>
 
-### `npm run build`
+### Mobile
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![instock-2 netlify app_warehouses](https://user-images.githubusercontent.com/108539627/205543309-a8c98e5f-ccd1-4590-a547-d97cff1bfd95.png)
+![instock-2 netlify app_warehouses (3)](https://user-images.githubusercontent.com/108539627/205543440-215bb1ac-63dd-40ca-b767-c8ccc6b2aafd.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Tablet
 
-### `npm run eject`
+![instock-2 netlify app_warehouses (4)](https://user-images.githubusercontent.com/108539627/205543701-57e01599-c828-42c1-aa5d-42eae78c2693.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Desktop
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![instock-2 netlify app_warehouses (2)](https://user-images.githubusercontent.com/108539627/205543818-ecbdb27b-9d4e-46fc-9e91-3755777f0c34.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h2>🛠️ Installation Steps:</h2>
 
-## Learn More
+<p>1. To start using this app you first need to clone the repository:</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+git clone https://github.com/ragibs/shoppy
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p>2. Then you will need to install all the required packages for the app and server. After you in the correct folder (app or server) run this command (if you're using npm):</p>
 
-### Code Splitting
+```
+npm i
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p>3. Finally to run the app run the following command in both folder:</p>
 
-### Analyzing the Bundle Size
+```
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+  
+  
+<h2>💻 Built with</h2>
 
-### Making a Progressive Web App
+Technologies used in the project:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+*   React
+*   react-router-dom
+*   Tailwind CSS
+*   Syncfusion React UI
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
