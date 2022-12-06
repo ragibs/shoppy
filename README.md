@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">Shoppy</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p id="description">A React dashboard app built using Syncfusion React UI and Tailwind CSS</p>
 
-## Available Scripts
+ <h2>🚀 Demo</h2>
 
-In the project directory, you can run:
 
-### `npm start`
+[Shoppy LIVE](https://638e5b0beae3360609f116a2--thriving-cassata-fd7671.netlify.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  
+<h2>🧐 Features</h2>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Here're some of the project's best features:
 
-### `npm test`
+*   An interactive dashboard
+*   3 different pages : Orders, Customers and Employees
+*   Calendar app with event adding functionality
+*   Kanban-like app with a to-do list
+*   9 type of graphs - fully interactive
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>📸  Screenshots</h2>
 
-### `npm run build`
+### Mobile
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![thriving-cassata-fd7671 netlify app_](https://user-images.githubusercontent.com/108539627/205742898-3127d379-2fc2-4878-8ab4-2b2c84af5054.png)
+![thriving-cassata-fd7671 netlify app_ (1)](https://user-images.githubusercontent.com/108539627/205742907-59d3b7e6-8666-4f49-86a7-dec5047c66f4.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Tablet
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![thriving-cassata-fd7671 netlify app_ (2)](https://user-images.githubusercontent.com/108539627/205742926-445c5c7e-aac4-4e74-93f9-8f3ce73034e2.png)
+![thriving-cassata-fd7671 netlify app_ (3)](https://user-images.githubusercontent.com/108539627/205742937-a4cf23cf-dff4-4d7a-bc64-ee2913560e51.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Desktop
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![thriving-cassata-fd7671 netlify app_ (4)](https://user-images.githubusercontent.com/108539627/205742980-d673ee2e-8015-49a7-90d7-0dd8d7c78de1.png)
+![thriving-cassata-fd7671 netlify app_ (5)](https://user-images.githubusercontent.com/108539627/205742999-34dbebd8-9277-4573-bbf6-4b10ad34d026.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h2>🛠️ Installation Steps:</h2>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<p>1. To start using this app you first need to clone the repository:</p>
 
-### Code Splitting
+```
+git clone https://github.com/ragibs/shoppy
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p>2. Then you will need to install all the required packages for the app and server. After you in the correct folder (app or server) run this command (if you're using npm):</p>
 
-### Analyzing the Bundle Size
+```
+npm i
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+<p>3. Finally to run the app run the following command in both folder:</p>
 
-### Making a Progressive Web App
+```
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  
+  
+<h2>💻 Built with</h2>
 
-### Advanced Configuration
+Technologies used in the project:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+*   React
+*   react-router-dom
+*   Tailwind CSS
+*   Syncfusion React UI
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
