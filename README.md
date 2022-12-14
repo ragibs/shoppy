@@ -10,6 +10,7 @@
 
 Here're some of the project's best features:
 
+
 - An interactive dashboard
 - 3 different pages : Orders, Customers and Employees
 - Calendar app with event adding functionality
